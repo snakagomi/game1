@@ -2,6 +2,8 @@ package game1;
 import java.util.Random;
 import java.util.Scanner;
 import Math;
+import abs;
+
 public class Game1 {
 
 	public static void main(String[] args) {
