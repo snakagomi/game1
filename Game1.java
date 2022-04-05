@@ -1,8 +1,8 @@
 package game1;
 import java.util.Random;
 import java.util.Scanner;
-import Math;
-import abs;
+//import Math;
+//import abs;
 
 public class Game1 {
 
